@@ -35,7 +35,7 @@ A basic interactive calculator built in Python for performing fundamental arithm
 
 ## Example Usage
 
-   --- Welcome to the Command-Line Calculator! ---
+   Welcome to the Command-Line Calculator!
    Operations: +, -, *, /
    Type 'exit' to quit.
    Enter first number (or 'exit'): 10
