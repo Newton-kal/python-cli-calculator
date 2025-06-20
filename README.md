@@ -42,16 +42,27 @@ A basic interactive calculator built in Python for performing fundamental arithm
    Type 'exit' to quit.
    
    Enter first number (or 'exit'): 10
+   
    Enter operator (+, -, *, /): +
+   
    Enter second number: 5
+   
    Result: 15.0
+   
    Enter first number (or 'exit'): hello
+   
    Error: Invalid number input. Please enter numerical values.
+   
    Enter first number (or 'exit'): 7
+   
    Enter operator (+, -, *, /): /
+   
    Enter second number: 0
+   
    Result: Error: Cannot divide by zero!
+   
    Enter first number (or 'exit'): exit
+   
    Exiting calculator. Goodbye!
    
 ---
