@@ -1,3 +1,5 @@
+# Simple Command-Line Calculator
+
 A basic interactive calculator built in Python for performing fundamental arithmetic operations (+, -, *, /) via the command line. This project highlights user input handling, conditional logic, and essential error management.
 
 ---
@@ -21,11 +23,9 @@ A basic interactive calculator built in Python for performing fundamental arithm
 
 1.  **Clone the repository (if you're running it locally):**
     ```bash
-    git clone [https://github.com/YourUsername/python-cli-calculator.git](https://github.com/YourUsername/python-cli-calculator.git)
+    git clone [https://github.com/Newton-Kal/python-cli-calculator.git](https://github.com/Newton-Kal/python-cli-calculator.git)
     cd python-cli-calculator
     ```
-    *(Remember to replace `YourUsername` with your actual GitHub username)*
-
 2.  **Run the calculator:**
     ```bash
     python calculator.py
@@ -36,7 +36,7 @@ A basic interactive calculator built in Python for performing fundamental arithm
 ## Example Usage
 
 
-     Welcome to the Command-Line Calculator! 
+   --- Welcome to the Command-Line Calculator! ---
    Operations: +, -, *, /
    Type 'exit' to quit.
    Enter first number (or 'exit'): 10
@@ -51,11 +51,12 @@ A basic interactive calculator built in Python for performing fundamental arithm
    Result: Error: Cannot divide by zero!
    Enter first number (or 'exit'): exit
    Exiting calculator. Goodbye!
+   
+---
 
 ## Future Enhancements (Ideas for continued development)
 
-* Add more mathematical operations (e.g power).
+* Add more mathematical operations (e.g., modulo, power).
 * Implement a history feature to review past calculations.
 * Improve user interface with clear prompts and formatting.
-
 
